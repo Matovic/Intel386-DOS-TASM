@@ -51,7 +51,7 @@ Program output:
 	<img src="./figures/2.png">
 </p>
 
-### Switch ‘–p’ (1 point) + •	(1 point) Print name of a file when pagging
+### Switch ‘–p’ + Print name of a file when pagging
 If the ‘-p ’switch is specified, the output is paged, so after filling the screen, the program waits for the keyboard to be pressed:
 <p align="center">
 	<img src="./figures/3.png">
