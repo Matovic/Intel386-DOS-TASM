@@ -33,7 +33,8 @@ As argument can be used:
 
 ## Documentation  
 This chapter focuses on describing the final solution as well as program outputs and inputs.  
-### Task (10 points)
+
+### Task
 Print all lines of input while all lowercase letters are exchanged for uppercase letters and print number of exchanges.
 
 Program output:  
@@ -50,8 +51,7 @@ Program output:
 	<img src="./figures/2.png">
 </p>
 
-### Task
-Switch ‘–p’ (1 point) + •	(1 point) Print name of a file when pagging
+### Switch ‘–p’ (1 point) + •	(1 point) Print name of a file when pagging
 If the ‘-p ’switch is specified, the output is paged, so after filling the screen, the program waits for the keyboard to be pressed:
 <p align="center">
 	<img src="./figures/3.png">
